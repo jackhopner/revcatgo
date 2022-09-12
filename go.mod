@@ -1,4 +1,4 @@
-module github.com/iktakahiro/revcatgo
+module github.com/jackhopner/revcatgo
 
 go 1.13
 
